@@ -1,4 +1,4 @@
-# Modul-Native-0-3
+# Modul Native
 Umumnya para pemula yang ingin belajar membuat aplikasi berbasis android atau ios akan membuat aplikasi native. Apa itu aplikasi native ?
 
 Aplikasi native bisa juga kita sebut dengan aplikasi asli. Aplikasi native dikembangkan dengan bahasa pemrograman tertentu untuk digunakan pada perangkat mobile dengan sistem operasi Android, iOS, ataupun mobile OS yang lainnya.
