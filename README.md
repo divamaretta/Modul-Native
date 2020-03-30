@@ -30,6 +30,7 @@ Kekurangan :
 1. Hanya untuk satu platform saja
 2. Di butuhkan spesifikasi komputer tinggi. Minimal Ram 3 Gb dan Prosesor Core I3
 
+![Alt Text](https://github.com/divamaretta/Modul-Native/blob/master/Screenshot%20(293).png)
 ![Alt Text](https://github.com/divamaretta/Modul-Native-0-3/blob/master/Screenshot%20(285).png)
 ![Alt Text](https://github.com/divamaretta/Modul-Native-0-3/blob/master/Screenshot%20(286).png)
 ![Alt Text](https://github.com/divamaretta/Modul-Native-0-3/blob/master/Screenshot%20(287).png)
