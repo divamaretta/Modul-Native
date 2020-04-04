@@ -77,3 +77,9 @@ Pada Modul 4 akan terfokus ke data peminjaman
 ![Alt Text](https://github.com/divamaretta/Modul-Native/blob/master/Screenshot%20(327).png)
 gatau pak ini error nya kenapa udah di otak atik gabisa-bisa nanti saya perbaiki lagi
 
+
+#(MODUL 5)
+![Alt Text](https://github.com/divamaretta/Modul-Native/blob/master/Screenshot%20(341).png)
+
+#(MODUL 6)
+![Alt Text](https://github.com/divamaretta/Modul-Native/blob/master/Screenshot%20(342).png)
